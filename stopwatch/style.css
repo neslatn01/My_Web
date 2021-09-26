@@ -6,9 +6,7 @@
 body {
   background-color: #111;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.container{
-  font-size: 4em;
+  font-size: 40em;
 }
 button {
     cursor: pointer;
