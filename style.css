@@ -26,8 +26,8 @@ body{
 }
 
 .container img {
-  width: 800px;
-  height: 500px;
+  width: 50%;
+  height: auto;
 }
 
 .container .btn {
